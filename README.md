@@ -1,3 +1,3 @@
 # springboot_aspect
 
-sample for spring AOP
+example for spring AOP
